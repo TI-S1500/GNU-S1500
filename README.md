@@ -4,11 +4,11 @@
 
 ## Overview
 
-* GCC 1.37.1.1
+* [GCC](gcc) 1.37.1.1
   * TI S1500 version 1.1.06
-* GDB 3.1.1
+* [GDB](/gdb) 3.1.1
   * TI S1500 version 1.2
-* GAS 1.34
+* [GAS](/gas) 1.34
   * TI S1500 version 1.34.1
 
 ## Notes
