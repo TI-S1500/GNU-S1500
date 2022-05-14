@@ -4,9 +4,12 @@
 
 ## Overview
 
-* [GCC 1.37.1.1 (TI S1500 version 1.1.06)](/gcc)
-* [GDB 3.1.1 (TI S1500 version 1.2)](/gdb)
-* [GAS 1.34 (TI S1500 version 1.34.1)](/gas)
+* GCC 1.37.1.1
+  * TI S1500 version 1.1.06
+* GDB 3.1.1
+  * TI S1500 version 1.2
+* GAS 1.34
+  * TI S1500 version 1.34.1
 
 ## Notes
 
@@ -20,6 +23,15 @@
   improvements will be accepted.
 * [Issues](https://github.com/TI-S1500/GNU-S1500/issues) should be used for
   defect tracking.
+
+## Licensing
+
+* GCC is distributed under the
+  [GNU General Public License, version 1](https://github.com/TI-S1500/GNU-S1500/blob/master/gcc/COPYING)
+* GDB is distributed under the
+  [GDB General Public License, 11 Feb 1988](https://github.com/TI-S1500/GNU-S1500/blob/master/gdb/COPYING)
+* GAS is distributed under the
+  [GNU General Public License, version 1](https://github.com/TI-S1500/GNU-S1500/blob/master/gas/COPYING)
 
 ## Branches
 
