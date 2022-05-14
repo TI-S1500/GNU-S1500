@@ -1,8 +1,0 @@
-#!/bin/sh
-# Name   : gcc-l
-# Version: March 30, 1994
-# Author : James Wells
-# Purpose: Boostrap "gcc-l"  compiler script.
-
-  ${BLD_CC} $* -lm -lc
-
