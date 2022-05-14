@@ -1,0 +1,9 @@
+#! /bin/sh
+
+# create an initialization procedure from a list of .o files
+
+echo '/* Do not modify this file.  It is created automatically by "munch". */'
+echo 'void initialize_all_files () {'
+
+/bin/nm $* | egrep '_initialize' | sed -e 's/|0x.*/();/'
+echo '}'

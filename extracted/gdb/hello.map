@@ -1,0 +1,207 @@
+/u/phil/lib/libc.a(printf.o) needed due to _printf
+/u/phil/lib/libc.a(cuexit.o) needed due to _exit
+/u/phil/lib/libc.a(doprnt.o) needed due to __doprnt
+/u/phil/lib/libc.a(fwrite.o) needed due to _fwrite
+/u/phil/lib/libc.a(ecvt.o) needed due to _ecvt
+/u/phil/lib/libc.a(ctype.o) needed due to __ctype
+/u/phil/lib/libc.a(flsbuf.o) needed due to __cleanup
+/u/phil/lib/libc.a(data.o) needed due to __bufendtab
+/u/phil/lib/libc.a(isatty.o) needed due to _isatty
+/u/phil/lib/libc.a(ioctl.o) needed due to _ioctl
+/u/phil/lib/libc.a(malloc.o) needed due to _malloc
+/u/phil/lib/libc.a(memchr.o) needed due to _memchr
+/u/phil/lib/libc.a(memcpy.o) needed due to _memcpy
+/u/phil/lib/libc.a(kill.o) needed due to _kill
+/u/phil/lib/libc.a(close.o) needed due to _close
+/u/phil/lib/libc.a(getpid.o) needed due to _getpid
+/u/phil/lib/libc.a(cerror.o) needed due to _cerror%
+/u/phil/lib/libc.a(sbrk.o) needed due to _sbrk
+/u/phil/lib/libc.a(strlen.o) needed due to _strlen
+/u/phil/lib/libc.a(write.o) needed due to _write
+text_pad = 0xe2
+data_start = 0x2000, text_size = 0x1f1e, 
+Allocating common _%?zdBdu1: 50 at 28e4
+Allocating common __sibuf: 408 at 2934
+Allocating common __sobuf: 408 at 2d3c
+Allocating common __smbuf: 328 at 3144
+Allocating common _%?9l%gu1: 18 at 346c
+data_size = 0x8e4, data_pad = 0x0, bss_size = 0xba0 
+data_size = 0x8e4, data_pad = 0x31c, bss_size = 0xba0 
+
+Files:
+
+  /u/phil/lib/crt0.o text 0(44), data 2000(8), bss 28e4(0) hex
+  hello.o text 44(20), data 2008(0), bss 28e4(0) hex
+  /u/phil/lib/libc.a(printf.o) text 64(78), data 2008(0), bss 28e4(0) hex
+  /u/phil/lib/libc.a(cuexit.o) text dc(e), data 2008(0), bss 28e4(0) hex
+  /u/phil/lib/libc.a(doprnt.o) text ea(fa8), data 2008(6c), bss 28e4(0) hex
+  /u/phil/lib/libc.a(fwrite.o) text 1092(1e0), data 2074(0), bss 28e4(0) hex
+  /u/phil/lib/libc.a(ecvt.o) text 1272(2e4), data 2074(48), bss 28e4(0) hex
+  /u/phil/lib/libc.a(ctype.o) text 1556(8), data 20bc(104), bss 28e4(0) hex
+  /u/phil/lib/libc.a(flsbuf.o) text 155e(55c), data 21c0(0), bss 28e4(0) hex
+  /u/phil/lib/libc.a(data.o) text 1aba(8), data 21c0(718), bss 28e4(0) hex
+  /u/phil/lib/libc.a(isatty.o) text 1ac2(30), data 28d8(0), bss 28e4(0) hex
+  /u/phil/lib/libc.a(ioctl.o) text 1af2(e), data 28d8(0), bss 28e4(0) hex
+  /u/phil/lib/libc.a(malloc.o) text 1b00(31c), data 28d8(0), bss 28e4(0) hex
+  /u/phil/lib/libc.a(memchr.o) text 1e1c(2a), data 28d8(0), bss 28e4(0) hex
+  /u/phil/lib/libc.a(memcpy.o) text 1e46(26), data 28d8(0), bss 28e4(0) hex
+  /u/phil/lib/libc.a(kill.o) text 1e6c(10), data 28d8(0), bss 28e4(0) hex
+  /u/phil/lib/libc.a(close.o) text 1e7c(10), data 28d8(0), bss 28e4(0) hex
+  /u/phil/lib/libc.a(getpid.o) text 1e8c(16), data 28d8(4), bss 28e4(0) hex
+  /u/phil/lib/libc.a(cerror.o) text 1ea2(c), data 28dc(4), bss 28e4(0) hex
+  /u/phil/lib/libc.a(sbrk.o) text 1eae(50), data 28e0(4), bss 28e4(0) hex
+  /u/phil/lib/libc.a(strlen.o) text 1efe(12), data 28e4(0), bss 28e4(0) hex
+  /u/phil/lib/libc.a(write.o) text 1f10(e), data 28e4(0), bss 28e4(0) hex
+
+Global symbols:
+
+  __stdbuf: 0x28d0
+  _brk: 0x1ee6
+  _isatty: 0x1ac2
+  _getpid: 0x1e8c
+  _%?zdBdu1: 0x28e4
+  _splimit%: 0x2000
+  _%TSExpu1: 0x1aba
+  _%=zdBdu1: 0x2074
+  _realloc: 0x1d60
+  _strlen: 0x1efe
+  _%TkcEcu1: 0x1556
+  _printf: 0x64
+  _%TrBjou1: 0xea
+  __ctype: 0x20bc
+  __findbuf: 0x1974
+  _%T9l%gu1: 0x1b00
+  _%TwHZqu1: 0x155e
+  __doprnt: 0x19c
+  __flsbuf: 0x168c
+  __sibuf: 0x2934
+  __sobuf: 0x2d3c
+  __smbuf: 0x3144
+  _%TLjogu1: 0x1ac2
+  __start: 0x0
+  _thepid: 0x28d8
+  __iob: 0x2354
+  _%TuJOru1: 0x1092
+  __cleanup: 0x155e
+  _%T_Bxou1: 0x64
+  _write: 0x1f10
+  __bufsync: 0x1a6e
+  _malloc: 0x1b00
+  __xflsbuf: 0x180e
+  __lastbuf: 0x28cc
+  _%=rBjou1: 0x2008
+  _memcpy: 0x1e46
+  _memchr: 0x1e1c
+  _cerror%: 0x1ea2
+  _%TzdBdu1: 0x1272
+  _ioctl: 0x1af2
+  _etext: 0x1f1e
+  __bufendtab: 0x21c0
+  _environ: 0x2004
+  _fwrite: 0x1092
+  _sbrk: 0x1eae
+  _errno: 0x28dc
+  _exit: 0xdc
+  _main: 0x52
+  _free: 0x1d2c
+  _close: 0x1e7c
+  _fflush: 0x161c
+  _kill: 0x1e6c
+  _edata: 0x28e4
+  __wrtchk: 0x18ba
+  _%?9l%gu1: 0x346c
+  _end: 0x3484
+  _fclose: 0x1588
+  _ecvt: 0x1272
+  _fcvt: 0x129a
+
+Local symbols of /u/phil/lib/crt0.o:
+
+
+Local symbols of hello.o:
+
+  gcc_compiled.: 0x44
+
+Local symbols of /u/phil/lib/libc.a(printf.o):
+
+  _printf.c: 0xd4
+
+Local symbols of /u/phil/lib/libc.a(cuexit.o):
+
+
+Local symbols of /u/phil/lib/libc.a(doprnt.o):
+
+  __lowdigit: 0xea
+  __dowrite: 0x132
+  _doprnt.c: 0x108a
+
+Local symbols of /u/phil/lib/libc.a(fwrite.o):
+
+  _fwrite.c: 0x126a
+
+Local symbols of /u/phil/lib/libc.a(ecvt.o):
+
+  _cvt: 0x12c4
+  _ecvt.c: 0x154e
+
+Local symbols of /u/phil/lib/libc.a(ctype.o):
+
+  _ctype.c: 0x1556
+
+Local symbols of /u/phil/lib/libc.a(flsbuf.o):
+
+  _flsbuf.c: 0x1ab0
+
+Local symbols of /u/phil/lib/libc.a(data.o):
+
+  _data.c: 0x1aba
+
+Local symbols of /u/phil/lib/libc.a(isatty.o):
+
+  _isatty.c: 0x1aea
+
+Local symbols of /u/phil/lib/libc.a(ioctl.o):
+
+  _noerror: 0x1afe
+
+Local symbols of /u/phil/lib/libc.a(malloc.o):
+
+  _malloc.c: 0x1e12
+
+Local symbols of /u/phil/lib/libc.a(memchr.o):
+
+
+Local symbols of /u/phil/lib/libc.a(memcpy.o):
+
+
+Local symbols of /u/phil/lib/libc.a(kill.o):
+
+  _noerror: 0x1e78
+
+Local symbols of /u/phil/lib/libc.a(close.o):
+
+  _noerror: 0x1e88
+
+Local symbols of /u/phil/lib/libc.a(getpid.o):
+
+  _gogetpid: 0x1e96
+
+Local symbols of /u/phil/lib/libc.a(cerror.o):
+
+
+Local symbols of /u/phil/lib/libc.a(sbrk.o):
+
+  _do_sbrk1: 0x1ebe
+  _nd: 0x28e0
+  _noerr1: 0x1ed4
+  _noerr2: 0x1ef2
+
+Local symbols of /u/phil/lib/libc.a(strlen.o):
+
+
+Local symbols of /u/phil/lib/libc.a(write.o):
+
+  _noerror: 0x1f1c
+data_pad = 0x31c
+mypos = 0x2ce4
+mypos = 0x3000

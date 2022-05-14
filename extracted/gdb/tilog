@@ -1,0 +1,14 @@
+Change Log 
+
+Change Date    Originator     File(s)         Function(s) 
+---------------------------------------------------------------
+09/17/90       clm            printcmd.c      print_scalar_formatted 
+
+Fixed problem causing core dump when trying to print doubles using 
+format options.  Problem arose because code was using the function 
+unpack_long on doubles, causing an overflow condition with doubles
+larger than LONG_MAX.  Changed the code so that only the function
+unpack_double is used on doubles, and to signal an error if the
+user should try to print a double using any of the integer format 
+args.
+   

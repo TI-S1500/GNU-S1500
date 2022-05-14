@@ -1,0 +1,2 @@
+#!/bin/sh
+gcc -v -o mkisam mkisam.o tierr.o tierr.o -lnettisam -lnetc -lnetsubs -lxport -ltisam -lc

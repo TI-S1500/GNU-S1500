@@ -1,0 +1,3 @@
+#bshf
+/gnu1/tmp/gcc-gcc -B/gnu1/tmp/gcc- \
+-m68020 -m68881 -mbitfield -pipe -coff -fsvs_bitfields -fwritable-strings -fcombine-regs -fcaller-saves $* -lc

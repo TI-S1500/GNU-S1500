@@ -1,0 +1,1734 @@
+/usr/src/glib/libc.a(assert.o) needed due to __assert
+/usr/src/glib/libc.a(abort.o) needed due to _abort
+/usr/src/glib/libc.a(chdir.o) needed due to _chdir
+/usr/src/glib/libc.a(atof.o) needed due to _atof
+/usr/src/glib/libc.a(dup2.o) needed due to _dup2
+/usr/src/glib/libc.a(errlst.o) needed due to _sys_errlist
+/usr/src/glib/libc.a(execl.o) needed due to _execl
+/usr/src/glib/libc.a(execle.o) needed due to _execle
+/usr/src/glib/libc.a(execve.o) needed due to _execve
+/usr/src/glib/libc.a(exit.o) needed due to __exit
+/usr/src/glib/libc.a(fdopen.o) needed due to _fdopen
+/usr/src/glib/libc.a(fgetc.o) needed due to _fgetc
+/usr/src/glib/libc.a(fork.o) needed due to _fork
+/usr/src/glib/libc.a(fprintf.o) needed due to _fprintf
+/usr/src/glib/libc.a(doprnt.o) needed due to __doprnt
+/usr/src/glib/libc.a(fputc.o) needed due to _fputc
+/usr/src/glib/libc.a(fseek.o) needed due to _fseek
+/usr/src/glib/libc.a(fstat.o) needed due to _fstat
+/usr/src/glib/libc.a(fwrite.o) needed due to _fwrite
+/usr/src/glib/libc.a(ecvt.o) needed due to _ecvt
+/usr/src/glib/libc.a(getcwd.o) needed due to _getcwd
+/usr/src/glib/libc.a(atoi.o) needed due to _atoi
+/usr/src/glib/libc.a(ctype.o) needed due to __ctype
+/usr/src/glib/libc.a(fgets.o) needed due to _fgets
+/usr/src/glib/libc.a(filbuf.o) needed due to __filbuf
+/usr/src/glib/libc.a(fopen.o) needed due to _fopen
+/usr/src/glib/libc.a(findiop.o) needed due to __findiop
+/usr/src/glib/libc.a(flsbuf.o) needed due to __cleanup
+/usr/src/glib/libc.a(data.o) needed due to __bufendtab
+/usr/src/glib/libc.a(isatty.o) needed due to _isatty
+/usr/src/glib/libc.a(ioctl.o) needed due to _ioctl
+/usr/src/glib/libc.a(ldexp.o) needed due to _ldexp
+/usr/src/glib/libc.a(frexp.o) needed due to _frexp
+/usr/src/glib/libc.a(fcntl.o) needed due to _fcntl
+/usr/src/glib/libc.a(lseek.o) needed due to _lseek
+/usr/src/glib/libc.a(memccpy.o) needed due to _memccpy
+/usr/src/glib/libc.a(memchr.o) needed due to _memchr
+/usr/src/glib/libc.a(memcmp.o) needed due to _memcmp
+/usr/src/glib/libc.a(memcpy.o) needed due to _memcpy
+/usr/src/glib/libc.a(memset.o) needed due to _memset
+/usr/src/glib/libc.a(access.o) needed due to _access
+/usr/src/glib/libc.a(kill.o) needed due to _kill
+/usr/src/glib/libc.a(close.o) needed due to _close
+/usr/src/glib/libc.a(getenv.o) needed due to _getenv
+/usr/src/glib/libc.a(getpid.o) needed due to _getpid
+/usr/src/glib/libc.a(cerror.o) needed due to _cerror%
+/usr/src/glib/libc.a(popen.o) needed due to _popen
+/usr/src/glib/libc.a(pipe.o) needed due to _pipe
+/usr/src/glib/libc.a(ptrace.o) needed due to _ptrace
+/usr/src/glib/libc.a(qsort.o) needed due to _qsort
+/usr/src/glib/libc.a(sbrk.o) needed due to _sbrk
+/usr/src/glib/libc.a(setjmp.o) needed due to _setjmp
+/usr/src/glib/libc.a(printf.o) needed due to _printf
+/usr/src/glib/libc.a(sprintf.o) needed due to _sprintf
+/usr/src/glib/libc.a(strchr.o) needed due to _strchr
+/usr/src/glib/libc.a(strcmp.o) needed due to _strcmp
+/usr/src/glib/libc.a(strncpy.o) needed due to _strncpy
+/usr/src/glib/libc.a(strlen.o) needed due to _strlen
+/usr/src/glib/libc.a(strncmp.o) needed due to _strncmp
+/usr/src/glib/libc.a(strrchr.o) needed due to _strrchr
+/usr/src/glib/libc.a(open.o) needed due to _open
+/usr/src/glib/libc.a(read.o) needed due to _read
+/usr/src/glib/libc.a(stat.o) needed due to _stat
+/usr/src/glib/libc.a(strcat.o) needed due to _strcat
+/usr/src/glib/libc.a(strcpy.o) needed due to _strcpy
+/usr/src/glib/libc.a(ulimit.o) needed due to _ulimit
+/usr/src/glib/libc.a(ungetc.o) needed due to _ungetc
+/usr/src/glib/libc.a(wait.o) needed due to _wait
+/usr/src/glib/libc.a(write.o) needed due to _write
+/usr/src/glib/libc.a(sigcall.o) needed due to _signal
+/usr/src/glib/libc.a(sigcode.o) needed due to __sigcode
+/usr/src/glib/libc.a(signal.o) needed due to _sigrelse
+/usr/src/glib/libc.a(cuexit.o) needed due to _exit
+Allocating common _execfile: 4 at 4a57c
+Allocating common _obstack2: 24 at 4a580
+Allocating common _obstack1: 24 at 4a5a4
+Allocating common _builtin_type_float: 4 at 4a5c8
+Allocating common _corechan: 4 at 4a5cc
+Allocating common _default_breakpoint_address: 4 at 4a5d0
+Allocating common _dcache_free: 1c at 4a5d4
+Allocating common _static_psymbols_allocated: 4 at 4a5f0
+Allocating common _global_psymbols_allocated: 4 at 4a5f4
+Allocating common _block_found: 4 at 4a5f8
+Allocating common _global_psymbols: 4 at 4a5fc
+Allocating common _corefile: 4 at 4a600
+Allocating common _instream: 4 at 4a604
+Allocating common _exec_data_end: 4 at 4a608
+Allocating common _default_breakpoint_valid: 4 at 4a60c
+Allocating common _exec_mtime: 4 at 4a610
+Allocating common _within_function: 4 at 4a614
+Allocating common _stack_start: 4 at 4a618
+Allocating common _breakpoint_commands: 4 at 4a61c
+Allocating common _%?NThPmA: 50 at 4a620
+Allocating common _builtin_type_unsigned_char: 4 at 4a670
+Allocating common _text_end: 4 at 4a674
+Allocating common _registers: b4 at 4a678
+Allocating common _context_stack_size: 4 at 4a72c
+Allocating common _builtin_type_unsigned_long: 4 at 4a730
+Allocating common _stop_registers: b4 at 4a734
+Allocating common _next_ps_global: 4 at 4a7e8
+Allocating common _stop_frame_address: 4 at 4a7ec
+Allocating common _step_frame_address: 4 at 4a7f0
+Allocating common _exec_data_offset: 4 at 4a7f4
+Allocating common _step_range_start: 4 at 4a7f8
+Allocating common _builtin_type_int: 4 at 4a7fc
+Allocating common _pending_blocks: 4 at 4a800
+Allocating common __malloc_base: 4 at 4a804
+Allocating common _%?m53TmA: c at 4a808
+Allocating common _pc_changed: 4 at 4a814
+Allocating common _disablelist: 4 at 4a818
+Allocating common _frame_cache_obstack: 24 at 4a81c
+Allocating common _stop_breakpoint: 4 at 4a840
+Allocating common _data_offset: 4 at 4a844
+Allocating common _infolist: 4 at 4a848
+Allocating common _enablebreaklist: 4 at 4a84c
+Allocating common _inferior_io_terminal: 4 at 4a850
+Allocating common _exec_file_display_hook: 4 at 4a854
+Allocating common _window_hook: 4 at 4a858
+Allocating common _default_breakpoint_line: 4 at 4a85c
+Allocating common _stopped_by_random_signal: 4 at 4a860
+Allocating common _deletelist: 4 at 4a864
+Allocating common _builtin_type_void: 4 at 4a868
+Allocating common __sibuf: 408 at 4a86c
+Allocating common __sobuf: 408 at 4ac74
+Allocating common _yylval: 8 at 4b07c
+Allocating common __smbuf: 328 at 4b084
+Allocating common _exec_data_start: 4 at 4b3ac
+Allocating common _%?Mz50nA: a0 at 4b3b0
+Allocating common _context_stack_depth: 4 at 4b450
+Allocating common _funcall_chain: 4 at 4b454
+Allocating common _current_source_symtab: 4 at 4b458
+Allocating common _builtin_type_long: 4 at 4b45c
+Allocating common _data_start: 4 at 4b460
+Allocating common _builtin_type_unsigned_short: 4 at 4b464
+Allocating common _builtin_type_char: 4 at 4b468
+Allocating common _kiodebug: 4 at 4b46c
+Allocating common _stop_pc: 4 at 4b470
+Allocating common _stop_after_trap: 4 at 4b474
+Allocating common _file_symbols: 4 at 4b478
+Allocating common _current_directory: 4 at 4b47c
+Allocating common _stop_stack_dummy: 4 at 4b480
+Allocating common _selected_frame_level: 4 at 4b484
+Allocating common _stop_after_attach: 4 at 4b488
+Allocating common _stop_step: 4 at 4b48c
+Allocating common _step_over_calls: 4 at 4b490
+Allocating common _%?mtn_mA: 50 at 4b494
+Allocating common _enablelist: 4 at 4b4e4
+Allocating common _free_pendings: 4 at 4b4e8
+Allocating common _stop_signal: 4 at 4b4ec
+Allocating common _first_object_file_end: 4 at 4b4f0
+Allocating common _attach_flag: 4 at 4b4f4
+Allocating common _innermost_block: 4 at 4b4f8
+Allocating common _symtab_list: 4 at 4b4fc
+Allocating common _static_psymbols: 4 at 4b500
+Allocating common _current_source_line: 4 at 4b504
+Allocating common _local_symbols: 4 at 4b508
+Allocating common _builtin_type_unsigned_int: 4 at 4b50c
+Allocating common _current_display_number: 4 at 4b510
+Allocating common _global_symbols: 4 at 4b514
+Allocating common _stack_end: 4 at 4b518
+Allocating common _text_start: 4 at 4b51c
+Allocating common _text_offset: 4 at 4b520
+Allocating common _data_end: 4 at 4b524
+Allocating common _selected_frame: 4 at 4b528
+Allocating common _step_range_end: 4 at 4b52c
+Allocating common _default_breakpoint_symtab: 4 at 4b530
+Allocating common _to_top_level: 34 at 4b534
+Allocating common _yyval: 8 at 4b568
+Allocating common _misc_function_count: 4 at 4b570
+Allocating common _context_stack: 4 at 4b574
+Allocating common _inferior_pid: 4 at 4b578
+Allocating common _inferior_environ: 4 at 4b57c
+Allocating common _float_type_table: 4 at 4b580
+Allocating common _quit_flag: 4 at 4b584
+Allocating common _partial_symtab_list: 4 at 4b588
+Allocating common __obstack: 4 at 4b58c
+Allocating common _stack_offset: 4 at 4b590
+Allocating common _dcache_valid: 1c at 4b594
+Allocating common ___header_offset_temp: 4 at 4b5b0
+Allocating common _malloc_sbrk_used: 4 at 4b5b4
+Allocating common _immediate_quit: 4 at 4b5b8
+Allocating common _icache: 4 at 4b5bc
+Allocating common _linesize: 4 at 4b5c0
+Allocating common _step_multi: 4 at 4b5c4
+Allocating common _core_aouthdr: 20 at 4b5c8
+Allocating common _remote_debugging: 4 at 4b5e8
+Allocating common _exec_aouthdr: 20 at 4b5ec
+Allocating common _builtin_type_short: 4 at 4b60c
+Allocating common _breakpoint_chain: 4 at 4b610
+Allocating common _signed_type_table: 4 at 4b614
+Allocating common _unsigned_type_table: 4 at 4b618
+Allocating common _yyv: 4b0 at 4b61c
+Allocating common _malloc_sbrk_unused: 4 at 4bacc
+Allocating common _line: 4 at 4bad0
+Allocating common _misc_function_vector: 4 at 4bad4
+Allocating common _next_ps_static: 4 at 4bad8
+Allocating common _remote_desc: 4 at 4badc
+Allocating common _builtin_type_double: 4 at 4bae0
+Allocating common _setlist: 4 at 4bae4
+Allocating common _execchan: 4 at 4bae8
+Allocating common _cmdlist: 4 at 4baec
+
+Files:
+
+  /usr/src/glib/crt0.o text 0(44), data 38000(8), bss 3dedc(0) hex
+  init.o text 44(64), data 38008(0), bss 3dedc(0) hex
+  main.o text a8(45c0), data 38008(4), bss 3dedc(84) hex
+  blockframe.o text 4668(a48), data 3800c(0), bss 3df60(4) hex
+  breakpoint.o text 50b0(2fa8), data 3800c(4), bss 3df64(4) hex
+  findvar.o text 8058(da8), data 38010(0), bss 3df68(0) hex
+  stack.o text 8e00(1970), data 38010(4), bss 3df68(0) hex
+  source.o text a770(1fb8), data 38014(0), bss 3df68(c) hex
+  values.o text c728(169c), data 38014(0), bss 3df74(10) hex
+  eval.o text ddc4(1a64), data 38014(0), bss 3df84(0) hex
+  valops.o text f828(2274), data 38014(1c), bss 3df84(0) hex
+  valarith.o text 11a9c(14f8), data 38030(0), bss 3df84(0) hex
+  valprint.o text 12f94(225c), data 38030(0), bss 3df84(4) hex
+  printcmd.o text 151f0(3708), data 38030(4), bss 3df88(14) hex
+  symtab.o text 188f8(3680), data 38034(1c), bss 3df9c(4) hex
+  symmisc.o text 1bf78(f4c), data 38050(0), bss 3dfa0(18) hex
+  coffread.o text 1cec4(0), data 38050(0), bss 3dfb8(0) hex
+  dbxread.o text 1cec4(7380), data 38050(20), bss 3dfb8(c288) hex
+  infcmd.o text 24244(24e0), data 38070(78), bss 4a240(4) hex
+  infrun.o text 26724(1efc), data 380e8(4), bss 4a244(88) hex
+  remote.o text 28620(aa0), data 380ec(0), bss 4a2cc(0) hex
+  command.o text 290c0(ba8), data 380ec(0), bss 4a2cc(0) hex
+  utils.o text 29c68(ab4), data 380ec(80), bss 4a2cc(4) hex
+  expread.o text 2a71c(2010), data 3816c(bcc), bss 4a2d0(24) hex
+  expprint.o text 2c72c(7b0), data 38d38(1e0), bss 4a2f4(0) hex
+  pinsn.o text 2cedc(2d14), data 38f18(3f98), bss 4a2f4(0) hex
+  environ.o text 2fbf0(334), data 3ceb0(0), bss 4a2f4(0) hex
+  version.o text 2ff24(8), data 3ceb0(4), bss 4a2f4(0) hex
+  core.o text 2ff2c(b44), data 3ceb4(0), bss 4a2f4(0) hex
+  inflow.o text 30a70(820), data 3ceb4(0), bss 4a2f4(40) hex
+  dep.o text 31290(b70), data 3ceb4(0), bss 4a334(0) hex
+  obstack.o text 31e00(21c), data 3ceb4(0), bss 4a334(0) hex
+  regex.o text 3201c(1ea4), data 3ceb4(c), bss 4a334(118) hex
+  malloc.o text 33ec0(7e0), data 3cec0(0), bss 4a44c(12c) hex
+  alloca.o text 346a0(d4), data 3cec0(20), bss 4a578(4) hex
+  /usr/src/glib/libc.a(assert.o) text 34774(100), data 3cee0(2c), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(abort.o) text 34874(3c), data 3cf0c(4), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(chdir.o) text 348b0(10), data 3cf10(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(atof.o) text 348c0(2ec), data 3cf10(48), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(dup2.o) text 34bac(8c), data 3cf58(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(errlst.o) text 34c38(8), data 3cf58(528), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(execl.o) text 34c40(28), data 3d480(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(execle.o) text 34c68(34), data 3d480(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(execve.o) text 34c9c(a), data 3d480(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(exit.o) text 34ca6(8), data 3d480(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(fdopen.o) text 34cae(a8), data 3d480(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(fgetc.o) text 34d56(38), data 3d480(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(fork.o) text 34d8e(1e), data 3d480(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(fprintf.o) text 34dac(70), data 3d480(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(doprnt.o) text 34e1c(fd4), data 3d480(6c), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(fputc.o) text 35df0(48), data 3d4ec(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(fseek.o) text 35e38(13c), data 3d4ec(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(fstat.o) text 35f74(10), data 3d4ec(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(fwrite.o) text 35f84(1f4), data 3d4ec(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(ecvt.o) text 36178(2e4), data 3d4ec(48), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(getcwd.o) text 3645c(bc), data 3d534(8), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(atoi.o) text 36518(c0), data 3d53c(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(ctype.o) text 365d8(cc), data 3d53c(248), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(fgets.o) text 366a4(104), data 3d784(20), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(filbuf.o) text 367a8(120), data 3d7a4(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(fopen.o) text 368c8(168), data 3d7a4(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(findiop.o) text 36a30(3c), data 3d7a4(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(flsbuf.o) text 36a6c(574), data 3d7a4(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(data.o) text 36fe0(8), data 3d7a4(718), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(isatty.o) text 36fe8(30), data 3debc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(ioctl.o) text 37018(e), data 3debc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(ldexp.o) text 37026(110), data 3debc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(frexp.o) text 37136(d4), data 3debc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(fcntl.o) text 3720a(e), data 3debc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(lseek.o) text 37218(e), data 3debc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(memccpy.o) text 37226(2c), data 3debc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(memchr.o) text 37252(2a), data 3debc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(memcmp.o) text 3727c(38), data 3debc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(memcpy.o) text 372b4(26), data 3debc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(memset.o) text 372da(26), data 3debc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(access.o) text 37300(e), data 3debc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(kill.o) text 3730e(10), data 3debc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(close.o) text 3731e(10), data 3debc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(getenv.o) text 3732e(88), data 3debc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(getpid.o) text 373b6(16), data 3debc(4), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(cerror.o) text 373cc(c), data 3dec0(4), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(popen.o) text 373d8(1dc), data 3dec4(10), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(pipe.o) text 375b4(18), data 3ded4(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(ptrace.o) text 375cc(e), data 3ded4(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(qsort.o) text 375da(2dc), data 3ded4(4), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(sbrk.o) text 378b6(50), data 3ded8(4), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(setjmp.o) text 37906(1c), data 3dedc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(printf.o) text 37922(78), data 3dedc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(sprintf.o) text 3799a(5c), data 3dedc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(strchr.o) text 379f6(16), data 3dedc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(strcmp.o) text 37a0c(26), data 3dedc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(strncpy.o) text 37a32(38), data 3dedc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(strlen.o) text 37a6a(12), data 3dedc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(strncmp.o) text 37a7c(3e), data 3dedc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(strrchr.o) text 37aba(18), data 3dedc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(open.o) text 37ad2(e), data 3dedc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(read.o) text 37ae0(e), data 3dedc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(stat.o) text 37aee(10), data 3dedc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(strcat.o) text 37afe(1a), data 3dedc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(strcpy.o) text 37b18(14), data 3dedc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(ulimit.o) text 37b2c(e), data 3dedc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(ungetc.o) text 37b3a(68), data 3dedc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(wait.o) text 37ba2(1a), data 3dedc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(write.o) text 37bbc(e), data 3dedc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(sigcall.o) text 37bca(178), data 3dedc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(sigcode.o) text 37d42(28), data 3dedc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(signal.o) text 37d6a(40), data 3dedc(0), bss 4a57c(0) hex
+  /usr/src/glib/libc.a(cuexit.o) text 37daa(e), data 3dedc(0), bss 4a57c(0) hex
+
+Global symbols:
+
+  _parse_escape: 0x2a25c
+  __stdbuf: 0x3deb4
+  _abort: 0x34874
+  _open: 0x37ad2
+  _read_register: 0x843e
+  _%TRppZmA: 0x35df0
+  _value_string: 0x1092c
+  _brk: 0x378ee
+  _dcache_fetch: 0x28f9c
+  _%TYwm%mA: 0x37b3a
+  _isatty: 0x36fe8
+  _fork: 0x34d8e
+  _dcache_poke: 0x28ff0
+  _print_sel_frame: 0x914a
+  _malloc_init: 0x33ec0
+  _frame_file_full_name: 0x38010
+  _%TtoXYmA: 0x367a8
+  _execfile: 0x4a57c
+  _value_x_unop: 0x123f8
+  _getwd: 0x2a5d0
+  _getpid: 0x373b6
+  _obstack2: 0x4a580
+  _call_function: 0x105f6
+  _free_all_symtabs: 0x1bf78
+  _value_of_internalvar: 0xcc60
+  _obstack1: 0x4a5a4
+  _%TJOkNmA: 0x348c0
+  _setchrclass: 0x365d8
+  _print_insn: 0x2e69a
+  _kill_inferior: 0x312b2
+  _contained_in: 0x1bb80
+  _remote_read_bytes: 0x28af2
+  _decode_format: 0x151f0
+  _fetch_inferior_registers: 0x3140e
+  _store_inferior_registers: 0x3156c
+  _xrealloc: 0x29df0
+  _psymbol_obstack: 0x38038
+  _symbol_obstack: 0x38034
+  _builtin_type_float: 0x4a5c8
+  _print_symtabs: 0x1c7cc
+  _fatal: 0x2a04e
+  _corechan: 0x4a5cc
+  _%TiOcNmA: 0x34774
+  _modify_field: 0xd80c
+  _default_breakpoint_address: 0x4a5d0
+  _bcopy: 0x2a578
+  _endop: 0x3ce3c
+  _dcache_init: 0x2905a
+  _dcache_free: 0x4a5d4
+  _static_psymbols_allocated: 0x4a5f0
+  _global_psymbols_allocated: 0x4a5f4
+  _start_remote: 0x269e4
+  _parse_c_expression: 0x2b756
+  _evaluate_expression: 0xdf0e
+  _access: 0x37300
+  _value_print: 0x12fa2
+  _set_next_address: 0x157e0
+  _read_memory: 0x302fe
+  _getcwd: 0x3645c
+  _print_source_lines: 0xb0f2
+  _read_pc: 0x254f4
+  _write_register_bytes: 0x8400
+  _read_register_bytes: 0x83de
+  __initialize_values: 0xdd96
+  _value_struct_elt_for_address: 0x11508
+  _splimit%: 0x38000
+  _dcache_alloc: 0x28f5e
+  _value_zerop: 0x1298c
+  _clear_internalvars: 0xcd3a
+  _%TFxx%mA: 0x34c40
+  _malloc_mem_used: 0x34602
+  _block_found: 0x4a5f8
+  _read_memory_integer: 0x25452
+  _remote_store_registers: 0x28936
+  _until_command: 0x24cf4
+  _dont_repeat: 0xc7a
+  _global_psymbols: 0x4a5fc
+  _find_saved_register: 0x8058
+  _%TGrUZmA: 0x35f84
+  _getenv: 0x3732e
+  _corefile: 0x4a600
+  _instream: 0x4a604
+  _exec_data_end: 0x4a608
+  _default_breakpoint_valid: 0x4a60c
+  _exec_mtime: 0x4a610
+  _%TX_qRmA: 0x36fe8
+  _set_current_frame: 0x467a
+  _get_current_frame: 0x4668
+  _%=9oSYmA: 0x3d784
+  _value_coerce_array: 0x1019c
+  _add_alias_cmd: 0x291b2
+  _within_function: 0x4a614
+  _stack_start: 0x4a618
+  _lookup_enum: 0x18e0e
+  _yyparse: 0x2b8a2
+  _%T1VFPmA: 0x37136
+  _set_breakpoint_commands: 0x54b8
+  _get_breakpoint_commands: 0x54a6
+  _breakpoint_commands: 0x4a61c
+  _do_breakpoint_commands: 0x5456
+  _clear_breakpoint_commands: 0x5492
+  _writing_pc: 0x268e8
+  _%?NThPmA: 0x4a620
+  _value_virtual_fn_field: 0xd40a
+  _terminal_inferior: 0x30abe
+  _%=m53TmA: 0x3ded4
+  _clear_displays: 0x165fc
+  _re_match_2: 0x33324
+  _%TRo1ZmA: 0x36a30
+  _add_prefix_cmd: 0x2925c
+  _set_internalvar: 0xccf2
+  _lookup_internalvar: 0xcbdc
+  _type_print_1: 0x14104
+  _ptrace: 0x375cc
+  _builtin_type_unsigned_char: 0x4a670
+  _free_all_psymtabs: 0x1cdde
+  _text_end: 0x4a674
+  _registers: 0x4a678
+  _destructor_name_p: 0x11106
+  _init_environ: 0x2fc64
+  _context_stack_size: 0x4a72c
+  __exit: 0x34ca6
+  _strcat: 0x37afe
+  _%TAN1NmA: 0x34874
+  _re_match: 0x332fa
+  _start_inferior: 0x2691a
+  _realloc: 0x34418
+  _strcmp: 0x37a0c
+  _dcache_hit: 0x28eea
+  _builtin_type_unsigned_long: 0x4a730
+  _register_addr: 0x307ac
+  _remote_fetch_registers: 0x2887e
+  _stop_registers: 0x4a734
+  _find_relative_frame: 0x9c44
+  _malloc_mem_free: 0x34638
+  _strchr: 0x379f6
+  _terminal_init_inferior: 0x30a70
+  _strlen: 0x37a6a
+  _strcpy: 0x37b18
+  _lookup_cmd: 0x297bc
+  _%TCmiYmA: 0x36fe0
+  _next_ps_global: 0x4a7e8
+  _unop_user_defined_p: 0x11ea6
+  _binop_user_defined_p: 0x11e26
+  _get_frame_pc: 0x4b14
+  __initialize_breakpoint: 0x7d98
+  _request_quit: 0x29fd6
+  _reg_names: 0x38074
+  _stop_frame_address: 0x4a7ec
+  _step_frame_address: 0x4a7f0
+  _call_ptrace: 0x31290
+  _print_sys_errmsg: 0x29ed2
+  _freopen: 0x368ea
+  _value_arg_coerce: 0x1050e
+  _value_of_this: 0x119aa
+  _sprintf: 0x3799a
+  _find_pc_line: 0x1a040
+  _exec_data_offset: 0x4a7f4
+  _restore_inferior_status: 0x28218
+  _save_inferior_status: 0x280d8
+  _get_current_block: 0x4df4
+  _std_regs: 0x38274
+  _step_range_start: 0x4a7f8
+  _builtin_type_int: 0x4a7fc
+  _%TjW5QmA: 0x3645c
+  _re_exec: 0x33e7c
+  _%TEjxXmA: 0x3799a
+  _printf: 0x37922
+  _%=NThPmA: 0x3d4ec
+  _pending_blocks: 0x4a800
+  __malloc_base: 0x4a804
+  _%TvSCOmA: 0x365d8
+  _have_inferior_p: 0x24244
+  _add_abbrev_prefix_cmd: 0x2929c
+  _%?m53TmA: 0x4a808
+  _pc_changed: 0x4a814
+  _sys_errlist: 0x3d398
+  _disablelist: 0x4a818
+  _breakpoint_here_p: 0x55ac
+  _free_all_values: 0xc7f4
+  _re_search_2: 0x3310e
+  _frame_cache_obstack: 0x4a81c
+  __initialize_infcmd: 0x264c2
+  __filbuf: 0x367a8
+  _value_lognot: 0x12f1e
+  _value_ind: 0x10332
+  __ctype: 0x3d53c
+  _stop_breakpoint: 0x4a840
+  _create_new_frame: 0x468a
+  _xmalloc: 0x29d78
+  _strrchr: 0x37aba
+  _re_comp: 0x33de2
+  _%Tmtn_mA: 0x373d8
+  _value_neg: 0x12e4e
+  _value_at: 0xf9a0
+  _data_offset: 0x4a844
+  _value_add: 0x11a9c
+  _infolist: 0x4a848
+  _enablebreaklist: 0x4a84c
+  _obstack_free: 0x31fa0
+  _value_x_binop: 0x11fc0
+  _lookup_partial_symtab: 0x189b6
+  _set_return_value: 0xdb40
+  _set_momentary_breakpoint: 0x5b9c
+  _malloc_stats: 0x34596
+  _lookup_basetype_type: 0x19522
+  __initialize_inflow: 0x31210
+  _inferior_io_terminal: 0x4a850
+  _flush_cached_frames: 0x47b8
+  _value_as_long: 0xceaa
+  _strncpy: 0x37a32
+  _value_cast: 0xf836
+  __findbuf: 0x36e9a
+  _init_source_path: 0xa91a
+  _exec_file_display_hook: 0x4a854
+  __findiop: 0x36a30
+  _value_sub: 0x11c3c
+  _set_ignore_count: 0x677a
+  _get_lim_data: 0x34678
+  _set_default_breakpoint: 0x5ac4
+  _specify_exec_file_hook: 0x2ff2c
+  _write_pc: 0x2550a
+  _window_hook: 0x4a858
+  _remote_write_bytes: 0x28a26
+  _value_addr: 0x1021c
+  _default_breakpoint_line: 0x4a85c
+  _%"vSCOmA: 0x3d768
+  _stopped_by_random_signal: 0x4a860
+  _typecmp: 0x11844
+  __doprnt: 0x34ece
+  _signal: 0x37bca
+  _yyexca: 0x38294
+  _lookup_unsigned_typename: 0x18bd6
+  _lookup_typename: 0x18a8a
+  _strncmp: 0x37a7c
+  _deletelist: 0x4a864
+  _resume: 0x31330
+  _make_environ: 0x2fbf0
+  _smash_to_reference_type: 0x1997a
+  _lookup_reference_type: 0x18fd2
+  _discard_cleanups: 0x29ce0
+  __flsbuf: 0x36ba0
+  _internalvar_name: 0xcd26
+  _value_from_long: 0xd8ea
+  _%T7PpNmA: 0x36518
+  _memccpy: 0x37226
+  _%TijsXmA: 0x37922
+  __sigcode: 0x37d42
+  __initialize_infrun: 0x28592
+  __initialize_printcmd: 0x1872e
+  _builtin_type_void: 0x4a868
+  _set_breakpoint: 0x5c5a
+  _m68k_opcodes: 0x38f18
+  _psymtab_to_symtab: 0x1fdc4
+  _free_environ: 0x2fc2e
+  _rindex: 0x2a600
+  _value_less: 0x12c90
+  _have_core_file_p: 0x3009a
+  __sibuf: 0x4a86c
+  _%=JOkNmA: 0x3cf10
+  _run_stack_dummy: 0x24aa2
+  _fill_in_vptr_fieldno: 0x24132
+  _setjmp: 0x37906
+  _validate_files: 0x2ffdc
+  __sigcall: 0x37cdc
+  _value_from_register: 0x86e6
+  __sobuf: 0x4ac74
+  _%=iOcNmA: 0x3cee0
+  _value_static_field: 0xd5b6
+  _parse_and_eval_address: 0xddc4
+  _yylval: 0x4b07c
+  __obstack_newchunk: 0x31eb8
+  __smbuf: 0x4b084
+  _sys_nerr: 0x3d47c
+  _exec_data_start: 0x4b3ac
+  _%TAnFYmA: 0x34cae
+  _value_assign: 0xfa74
+  _remove_breakpoints: 0x553e
+  _clear_momentary_breakpoints: 0x5be8
+  _sigrelse: 0x37d8c
+  _re_set_syntax: 0x320a0
+  _release_value: 0xc828
+  _yychar: 0x38d2c
+  _%?Mz50nA: 0x4b3b0
+  _context_stack_depth: 0x4b450
+  _parse_to_comma_and_eval: 0xdebe
+  _sigset: 0x37be6
+  _proceed: 0x267ba
+  _valloc: 0x34584
+  _memalign: 0x3452e
+  _inhibit_windows: 0x38008
+  _clear_proceed_status: 0x26724
+  _push_bytes: 0x104a8
+  _error_no_arg: 0x101a
+  _sigignore: 0x37d96
+  _funcall_chain: 0x4b454
+  _current_source_symtab: 0x4b458
+  _select_source_symtab: 0xa778
+  _builtin_type_long: 0x4b45c
+  _data_start: 0x4b460
+  _make_cleanup: 0x29c68
+  _environ_vector: 0x2fd2a
+  _get_frame_block: 0x4dd0
+  _remote_resume: 0x2875e
+  __start: 0x0
+  _parse_and_eval: 0xde74
+  __obstack_begin: 0x31e00
+  _terminal_ours_for_output: 0x30b44
+  _value_push: 0x104d2
+  _thepid: 0x3debc
+  _reopen_exec_file: 0x2ff64
+  _lookup_union: 0x18d62
+  _supply_register: 0x84f8
+  _builtin_type_unsigned_short: 0x4b464
+  _%TdpdZmA: 0x36a6c
+  _find_line_pc: 0x1a230
+  _ungetc: 0x37b3a
+  _find_pc_function: 0x4f76
+  _builtin_type_char: 0x4b468
+  _close_exec_file: 0x2ff3c
+  _clear_breakpoints: 0x66e2
+  _insert_breakpoints: 0x54c8
+  _pclose: 0x374fe
+  _gdb_read_line: 0xc8a
+  _yyerrflag: 0x38d34
+  _delete_cmd: 0x292e2
+  _kiodebug: 0x4b46c
+  __iob: 0x3d938
+  _stop_pc: 0x4b470
+  _find_pc_misc_function: 0x4fa4
+  _cont_command: 0x244d0
+  _check_field: 0x111e0
+  _catch_errors: 0xea
+  _decode_line_spec_1: 0x6b50
+  _stop_after_trap: 0x4b474
+  _re_max_failures: 0x3cebc
+  _%TJiiXmA: 0x34e1c
+  _yypact: 0x38828
+  _file_symbols: 0x4b478
+  _clear_value_history: 0xcae8
+  _access_value_history: 0xca30
+  _current_directory: 0x4b47c
+  _stop_stack_dummy: 0x4b480
+  __cleanup: 0x36a6c
+  _value_as_double: 0xcecc
+  _type_print: 0x140e6
+  _selected_frame_level: 0x4b484
+  _fprintf: 0x34dac
+  _sigpause: 0x37da0
+  _write_register: 0x8490
+  _stop_after_attach: 0x4b488
+  _stop_step: 0x4b48c
+  _step_over_calls: 0x4b490
+  _printchar: 0x2a460
+  _free_current_contents: 0x29d40
+  _%?mtn_mA: 0x4b494
+  _write: 0x37bbc
+  _terminal_ours: 0x30b5c
+  _delete_current_display: 0x16a2c
+  _initialize_all_files: 0x44
+  _%=AN1NmA: 0x3cf0c
+  _enablelist: 0x4b4e4
+  _xfer_core_file: 0x303fe
+  _remque: 0x2a6f6
+  _add_abbrev_cmd: 0x29138
+  _block_function: 0x19f9c
+  _free_pendings: 0x4b4e8
+  _parse_c_1: 0x2b604
+  _get_exec_file: 0x3006e
+  __initialize_symmisc: 0x1ce9a
+  _ulimit: 0x37b2c
+  _do_displays: 0x169d6
+  _stop_signal: 0x4b4ec
+  _%TIWbQmA: 0x3732e
+  _get_selected_block: 0x9c00
+  _%Tm53TmA: 0x375da
+  _value_being_returned: 0xda5c
+  _qsort: 0x375da
+  _decode_line_2: 0x1b03c
+  _identify_source_line: 0xb026
+  _remote_fetch_word: 0x289be
+  _decode_line_1: 0x1a4a0
+  _free_command_lines: 0xece
+  _read_command_lines: 0xdd0
+  _using_struct_return: 0xdaaa
+  __bufsync: 0x36f94
+  _fpcr_names: 0x3ce40
+  _print_variable_value: 0x16d8c
+  _query: 0x2a1a2
+  __assert: 0x34774
+  _first_object_file_end: 0x4b4f0
+  _add_info: 0xf04
+  _malloc: 0x341ce
+  _lookup_pointer_type: 0x18e6a
+  _%T9oSYmA: 0x366a4
+  _memset: 0x372da
+  _get_prev_frame: 0x47a4
+  _attach_flag: 0x4b4f4
+  _read_symsegs: 0x1c658
+  _value_field: 0xd212
+  _innermost_block: 0x4b4f8
+  _longjmp: 0x37912
+  _unpack_field_as_long: 0xd74c
+  _val_print: 0x132de
+  __xflsbuf: 0x36d34
+  _%=jW5QmA: 0x3d534
+  _is_nan: 0x14094
+  _symtab_list: 0x4b4fc
+  _%TzpkZmA: 0x368c8
+  _get_frame_saved_regs: 0x4b34
+  _get_frame_function: 0x4e74
+  _value_fn_field: 0xd33c
+  __lastbuf: 0x3deb0
+  _push_word: 0x1047a
+  _%=vSCOmA: 0x3d740
+  _static_psymbols: 0x4b500
+  _current_source_line: 0x4b504
+  _yydef: 0x38be0
+  _memcpy: 0x372b4
+  _local_symbols: 0x4b508
+  _builtin_type_unsigned_int: 0x4b50c
+  _yyact: 0x382b8
+  _yychk: 0x38ab2
+  _value_subscript: 0x11e04
+  _print_frame_info: 0x8e58
+  _get_prev_frame_info: 0x4870
+  _current_display_number: 0x4b510
+  _breakpoint_cond_eval: 0x55dc
+  _global_symbols: 0x4b514
+  _read_relative_register_raw_bytes: 0x80d0
+  _lookup_member_type: 0x1913a
+  _get_sym_file: 0x1e884
+  _print_scalar_formatted: 0x15498
+  _until_next_command: 0x24c22
+  _stack_end: 0x4b518
+  _get_filename_and_charpos: 0xaf82
+  _text_start: 0x4b51c
+  _write_inferior_memory: 0x31768
+  _read_inferior_memory: 0x316ba
+  _mark_breakpoints_out: 0x5592
+  _%=mtn_mA: 0x3dec4
+  _numopcodes: 0x3ce38
+  _value_binop: 0x1263a
+  _create_inferior: 0x30e5e
+  _value_of_variable: 0x1014c
+  _parse_and_eval_address_1: 0xde1a
+  _%T30HRmA: 0x37026
+  _decode_line_spec: 0x1af14
+  _memchr: 0x37252
+  _find_corresponding_bincl_psymtab: 0x1eacc
+  _source_charpos_line: 0xaf3c
+  _text_offset: 0x4b520
+  _remote_store_word: 0x28a0a
+  _data_end: 0x4b524
+  _kill_inferior_fast: 0x312f0
+  _%TNThPmA: 0x36178
+  _memcmp: 0x3727c
+  _record_selected_frame: 0x9be2
+  _print_selected_frame: 0x916e
+  _selected_frame: 0x4b528
+  _inferior_died: 0x30fd8
+  _help_list: 0x29544
+  _step_range_end: 0x4b52c
+  _allocate_repeat_value: 0xc788
+  _default_breakpoint_symtab: 0x4b530
+  _print_frame_args: 0x16dbe
+  _unset_in_environ: 0x2fe84
+  _set_in_environ: 0x2fda0
+  _get_in_environ: 0x2fd3e
+  _input_from_terminal_p: 0x3602
+  _to_top_level: 0x4b534
+  _return_to_top_level: 0xa8
+  _smash_to_method_type: 0x1991a
+  _value_equal: 0x12a68
+  _yyval: 0x4b568
+  _%T0joXmA: 0x34dac
+  _re_compile_fastmap: 0x32d7e
+  _value_repeat: 0x100b2
+  _misc_function_count: 0x4b570
+  _command_loop: 0xbbc
+  _smash_to_member_type: 0x198c8
+  _smash_to_pointer_type: 0x19866
+  _yypgo: 0x38956
+  _breakpoint_auto_delete: 0x657e
+  _%"aUnPmA: 0x3cf58
+  _remote_wait: 0x287d0
+  _context_stack: 0x4b574
+  _perror_with_name: 0x29e32
+  _cerror%: 0x373cc
+  _inferior_pid: 0x4b578
+  _inferior_environ: 0x4b57c
+  _block_innermost_frame: 0x5032
+  _print_spaces: 0x2a14e
+  _value_arg_push: 0x105a0
+  _write_memory: 0x3037a
+  _yyr1: 0x3896e
+  _yyr2: 0x38a10
+  _float_type_table: 0x4b580
+  _quit: 0x29f9c
+  _enable_display: 0x16c38
+  _quit_flag: 0x4b584
+  _stat: 0x37aee
+  _partial_symtab_list: 0x4b588
+  _sighold: 0x37d82
+  _select_frame: 0x9bca
+  _do_cleanups: 0x29ca4
+  _add_com_alias: 0xfde
+  _popen: 0x373d8
+  _savestring: 0x2a0a0
+  _ioctl: 0x37018
+  _etext: 0x37db8
+  __bufendtab: 0x3d7a4
+  _block_for_pc: 0x4ea2
+  _unpack_long: 0xcf3c
+  _read_var_value: 0x8584
+  _convert_from_68881: 0x2fbbe
+  _print_prompt: 0x3450
+  _frexp: 0x37136
+  __obstack: 0x4b58c
+  _environ: 0x38004
+  _fwrite: 0x35f84
+  _tty_command: 0x242c6
+  _core_file_command: 0x318ec
+  _exec_file_command: 0x31b7c
+  _lookup_method_type: 0x192d2
+  _execve: 0x34c9c
+  _stack_offset: 0x4b590
+  __obstack_allocated_p: 0x31f68
+  _dcache_valid: 0x4b594
+  _insque: 0x2a6c6
+  _bzero: 0x2a5b0
+  __initialize_dbxread: 0x241fc
+  ___header_offset_temp: 0x4b5b0
+  __initialize_valprint: 0x150c6
+  _evaluate_type: 0xdf30
+  _ldexp: 0x37026
+  _malloc_sbrk_used: 0x4b5b4
+  __initialize_blockframe: 0x508c
+  _immediate_quit: 0x4b5b8
+  _yynerrs: 0x38d30
+  _icache: 0x4b5bc
+  __initialize_symtab: 0x1bdb2
+  _%TYqHZmA: 0x35e38
+  _index: 0x2a5e6
+  _linesize: 0x4b5c0
+  __signal: 0x37d74
+  __signst: 0x37c04
+  _step_multi: 0x4b5c4
+  _malloc_usable_size: 0x33ee8
+  _disable_display: 0x16ce4
+  _fseek: 0x35e38
+  _locate_var_value: 0x8ca6
+  _pipe: 0x375b4
+  _core_aouthdr: 0x4b5c8
+  _dcache_value: 0x28f30
+  _remote_debugging: 0x4b5e8
+  _until_break_command: 0x6180
+  _%T0yC%mA: 0x34c68
+  _read: 0x37ae0
+  _value_from_double: 0xd9e2
+  _execle: 0x34c68
+  _delete_display: 0x16646
+  _help_cmd_list: 0x29686
+  _exec_aouthdr: 0x4b5ec
+  _error: 0x29ff2
+  _value_struct_elt: 0x10c42
+  _sys_siglist: 0x380ec
+  _builtin_type_short: 0x4b60c
+  _get_frame_info: 0x4830
+  _wait: 0x37ba2
+  _breakpoint_chain: 0x4b610
+  _execl: 0x34c40
+  _sbrk: 0x378b6
+  __initialize_command: 0x29c34
+  _concat: 0x2a0d8
+  _no_mem: 0x29dde
+  _errno: 0x3dec0
+  _convert_to_68881: 0x2fbd6
+  _fputc: 0x35df0
+  _lookup_struct: 0x18cb6
+  _restore_cleanups: 0x29d30
+  _remote_open: 0x2863c
+  _print_address: 0x1582e
+  _signed_type_table: 0x4b614
+  _unsigned_type_table: 0x4b618
+  _get_pc_function_start: 0x4e0e
+  _re_search: 0x330e0
+  _%TaUnPmA: 0x34c38
+  _yyv: 0x4b61c
+  _re_compile_pattern: 0x32156
+  _malloc_sbrk_unused: 0x4bacc
+  _print_expression: 0x2c774
+  _line: 0x4bad0
+  _misc_function_vector: 0x4bad4
+  _atof: 0x348c0
+  _next_ps_static: 0x4bad8
+  _lookup_symtab: 0x188fc
+  _remote_desc: 0x4badc
+  _add_com: 0xfba
+  _add_file_command: 0x20ee6
+  _fstat: 0x35f74
+  _add_cmd: 0x290c0
+  _symbol_file_command: 0x1e40c
+  _exit: 0x37daa
+  __sigset: 0x37d6a
+  _atoi: 0x36518
+  _%TuT9PmA: 0x34bac
+  _main: 0x32e
+  _find_pc_line_pc_range: 0x1a394
+  _find_line_pc_range: 0x1a27a
+  _free: 0x3431c
+  __initialize_source: 0xc67e
+  _lseek: 0x37218
+  _allocate_value: 0xc728
+  _myread: 0x30736
+  _close: 0x3731e
+  _builtin_type_double: 0x4bae0
+  _%TMz50nA: 0x37bca
+  _smash_to_function_type: 0x199dc
+  _lookup_function_type: 0x19700
+  _fflush: 0x36b30
+  _alloca: 0x346dc
+  _fdopen: 0x34cae
+  _%"9oSYmA: 0x3d788
+  _kill: 0x3730e
+  _setlist: 0x4bae4
+  _fopen: 0x368c8
+  _execute_command: 0xac0
+  _directory_command: 0xaa0a
+  _save_cleanups: 0x29d12
+  _edata: 0x3dedc
+  __wrtchk: 0x36de0
+  _unpack_double: 0xd0be
+  _add_info_alias: 0xf28
+  _chdir: 0x348b0
+  __initialize_core: 0x309c8
+  _%=JiiXmA: 0x3d480
+  _fcntl: 0x3720a
+  _fgetc: 0x34d56
+  _end: 0x4baf0
+  _bcmp: 0x2a592
+  _openp: 0xac28
+  _execchan: 0x4bae8
+  _set_internalvar_component: 0xcc8c
+  _cmdlist: 0x4baec
+  _fclose: 0x36a9c
+  _lookup_symbol: 0x19ab2
+  _ecvt: 0x36178
+  _help_cmd: 0x2935c
+  __initialize_stack: 0xa622
+  _version: 0x3ceb0
+  _fcvt: 0x361a0
+  _fgets: 0x366a4
+  _dup2: 0x34bac
+  _init_psymbol_list: 0x1e95e
+  _source_line_charpos: 0xaee4
+  _%TSnLYmA: 0x34d56
+  _record_latest_value: 0xc922
+  _breakpoint_stop_status: 0x5634
+  _value_of_register: 0x81f4
+
+Local symbols of /usr/src/glib/crt0.o:
+
+
+Local symbols of init.o:
+
+
+Local symbols of main.o:
+
+  _disconnect: 0x182
+  _source_cleanup: 0x1b0
+  _dirbuf: 0x3dee0
+  _initialize_cmd_lists: 0x3a4e
+  _initialize_main: 0x43b2
+  _print_gdb_version: 0x341e
+  _source_command: 0x3916
+  _do_nothing: 0xbb4
+  _prompt: 0x3dedc
+  _info_command: 0xf8a
+  _help_command: 0x1030
+  _validate_comname: 0x1082
+  _define_command: 0x119c
+  _document_command: 0x1322
+  _copying_info: 0x2d1c
+  _warranty_info: 0x32e6
+  _version_info: 0x3436
+  _set_prompt_command: 0x3496
+  _quit_command: 0x35b4
+  _pwd_command: 0x368e
+  _cd_command: 0x3722
+  _echo_command: 0x397e
+  _dump_me_command: 0x3a10
+
+Local symbols of blockframe.o:
+
+  _current_frame: 0x3df60
+
+Local symbols of breakpoint.o:
+
+  _break_insn: 0x3800c
+  _condition_command: 0x515c
+  _commands_command: 0x536c
+  _breakpoint_count: 0x3df64
+  _breakpoint_1: 0x57d4
+  _breakpoints_info: 0x5966
+  _describe_other_breakpoints: 0x59fe
+  _check_duplicates: 0x5aec
+  _set_raw_breakpoint: 0x5b26
+  _delete_breakpoint: 0x65c6
+  _break_command_1: 0x5de2
+  _break_command: 0x6126
+  _tbreak_command: 0x613c
+  _clear_command: 0x6358
+  _delete_command: 0x668a
+  _map_breakpoint_numbers: 0x697a
+  _ignore_command: 0x6888
+  _enable_breakpoint: 0x6a26
+  _enable_command: 0x6a44
+  _disable_breakpoint: 0x6a58
+  _disable_command: 0x6a74
+  _enable_once_breakpoint: 0x6aac
+  _enable_once_command: 0x6aca
+  _enable_delete_breakpoint: 0x6ade
+  _enable_delete_command: 0x6afc
+
+Local symbols of findvar.o:
+
+
+Local symbols of stack.o:
+
+  _print_stack_frame: 0x8e00
+  _parse_frame_specification: 0x91f0
+  _frame_info: 0x9488
+  _backtrace_command: 0x9932
+  _print_block_frame_locals: 0x9a1e
+  _print_frame_local_vars: 0x9aa4
+  _locals_info: 0x9af8
+  _print_frame_arg_vars: 0x9b12
+  _args_info: 0x9bae
+  _frame_command: 0x9cca
+  _up_command: 0x9d6a
+  _down_command: 0x9e2e
+  _return_command: 0x9f06
+
+Local symbols of source.o:
+
+  _directories_info: 0xa902
+  _source_path: 0x3df70
+  _find_source_lines: 0xadcc
+  _first_line_listed: 0x3df68
+  _last_line_listed: 0x3df6c
+  _ambiguous_line_spec: 0xb320
+  _list_command: 0xb4c0
+  _line_info: 0xba00
+  _forward_search_command: 0xbba8
+  _reverse_search_command: 0xbd94
+
+Local symbols of values.o:
+
+  _all_values: 0x3df78
+  _value_copy: 0xc864
+  _value_history_count: 0x3df7c
+  _value_history_chain: 0x3df80
+  _history_info: 0xcb54
+  _internalvars: 0x3df74
+  _convenience_info: 0xce3a
+
+Local symbols of eval.o:
+
+  _evaluate_subexp: 0xe07a
+  _evaluate_subexp_for_address: 0xf61c
+  _evaluate_subexp_with_coercion: 0xf6ce
+  _evaluate_subexp_for_sizeof: 0xf74a
+
+Local symbols of valops.o:
+
+  _dummy.0: 0x38014
+
+Local symbols of valarith.o:
+
+
+Local symbols of valprint.o:
+
+  _print_max: 0x3df84
+  _type_print_varspec_prefix: 0x144b0
+  _type_print_method_args: 0x141d0
+  _type_print_base: 0x1499a
+  _type_print_varspec_suffix: 0x14690
+  _type_print_derivation_info: 0x142c0
+  _set_maximum_command: 0x14ff8
+
+Local symbols of printcmd.o:
+
+  _last_format: 0x38030
+  _last_size: 0x38031
+  _print_formatted: 0x152d2
+  _next_address: 0x3df98
+  _do_examine: 0x158fe
+  _last_examine_address: 0x3df94
+  _last_examine_value: 0x3df90
+  _validate_format: 0x15af0
+  _print_command: 0x15b62
+  _output_command: 0x15c6a
+  _set_command: 0x15d08
+  _address_info: 0x15ed4
+  _x_command: 0x160aa
+  _whatis_command: 0x161f0
+  _ptype_command: 0x162f6
+  _display_command: 0x164e6
+  _display_chain: 0x3df8c
+  _display_number: 0x3df88
+  _do_one_display: 0x167cc
+  _free_display: 0x165dc
+  _undisplay_command: 0x16718
+  _display_info: 0x16b1a
+  _print_frame_nameless_args: 0x16f5c
+  _printf_command: 0x170c8
+
+Local symbols of symtab.o:
+
+  _lookup_block_symbol: 0x19e6e
+  _lookup_partial_symbol: 0x19c9c
+  _find_pc_symtab: 0x19fd0
+  _find_line_common: 0x1a314
+  _lookup_misc_func: 0x1b32e
+  _column.0: 0x3803c
+  _output_source_filename: 0x1b3a6
+  _rows_output: 0x3df9c
+  _sources_info: 0x1b514
+  _classnames.1: 0x38040
+  _list_symbols: 0x1b644
+  _sort_block_syms: 0x1bae8
+  _variables_info: 0x1ba42
+  _functions_info: 0x1ba54
+  _types_info: 0x1ba68
+  _methods_info: 0x1ba7c
+  _compare_symbols: 0x1ba90
+  _init_type: 0x1bb12
+
+Local symbols of symmisc.o:
+
+  _free_symtab: 0x1c0b6
+  _free_symtab_block: 0x1c068
+  _relocate_symtab: 0x1c162
+  _relocation: 0x3dfb4
+  _text_relocation: 0x3dfb0
+  _data_relocation: 0x3dfac
+  _bss_relocation: 0x3dfa8
+  _data_start: 0x3dfa4
+  _bss_start: 0x3dfa0
+  _relocate_typevector: 0x1c488
+  _relocate_blockvector: 0x1c2e2
+  _relocate_block: 0x1c32e
+  _relocate_symbol: 0x1c3be
+  _relocate_type: 0x1c4e2
+  _relocate_sourcevector: 0x1c5a8
+  _relocate_source: 0x1c5f4
+  _block_depth: 0x1cdba
+  _print_symbol: 0x1ca9a
+
+Local symbols of coffread.o:
+
+
+Local symbols of dbxread.o:
+
+  _xxmalloc: 0x1cec4
+  _obsavestring: 0x1cef0
+  _obconcat: 0x1d00c
+  _init_header_files: 0x1d150
+  _n_allocated_header_files: 0x49ff0
+  _header_files: 0x49ff8
+  _n_header_files: 0x49ff4
+  _n_allocated_this_object_header_files: 0x49fd8
+  _this_object_header_files: 0x49fe0
+  _free_header_files: 0x1d18a
+  _new_object_header_files: 0x1d1e8
+  _n_this_object_header_files: 0x49fdc
+  _header_file_prev_index: 0x49fd4
+  _add_this_object_header_file: 0x1d200
+  _add_old_header_file: 0x1d2b4
+  _symnum: 0x4a220
+  _add_new_header_file: 0x1d31a
+  _dbx_lookup_type: 0x1d442
+  _type_vector_length: 0x4a218
+  _type_vector: 0x4a21c
+  _dbx_alloc_type: 0x1d584
+  _add_symbol_to_list: 0x1d69e
+  _really_free_pendings: 0x1d712
+  _finish_block: 0x1d7ce
+  _processing_gcc_compilation: 0x49ffc
+  _make_blockvector: 0x1da74
+  _record_line: 0x1db9c
+  _line_vector_index: 0x4a210
+  _line_vector_length: 0x4a208
+  _line_vector: 0x4a214
+  _current_subfile: 0x4a224
+  _start_symtab: 0x1dc28
+  _last_source_file: 0x4a234
+  _last_source_start_addr: 0x4a230
+  _symseg_chain: 0x4a23c
+  _current_symseg: 0x4a238
+  _subfiles: 0x4a228
+  _start_subfile: 0x1dcfe
+  _prev_line_number: 0x4a20c
+  _end_symtab: 0x1ddfc
+  _init_misc_functions: 0x1df6c
+  _misc_count: 0x49fc8
+  _misc_bunch: 0x49fd0
+  _misc_bunch_index: 0x49fcc
+  _record_misc_function: 0x1df88
+  _compare_misc_functions: 0x1e00c
+  _discard_misc_bunches: 0x1e046
+  _condense_misc_bunches: 0x1e07c
+  _compare_symbols: 0x1e1dc
+  _sort_syms: 0x1e258
+  _sort_symtab_syms: 0x1e27a
+  _symfile: 0x4a008
+  _global_sym_chain: 0x4a00c
+  _read_dbx_symtab: 0x1eb7a
+  _fill_symbuf: 0x1e8c0
+  _symbuf: 0x3dfc8
+  _symtab_input_desc: 0x3dfbc
+  _symbuf_end: 0x3dfc0
+  _symbuf_idx: 0x3dfc4
+  _next_symbol_text: 0x1e916
+  _stringtab_global: 0x3dfb8
+  _init_bincl_list: 0x1e9d6
+  _bincls_allocated: 0x49fe4
+  _bincl_list: 0x49fec
+  _next_bincl: 0x49fe8
+  _add_bincl_to_list: 0x1ea0e
+  _free_bincl_list: 0x1eb26
+  _end_of_text_addr: 0x4a22c
+  _last_global_sym: 0x4a000
+  _first_global_sym: 0x4a004
+  _end_psymtab: 0x1f7c4
+  _start_psymtab: 0x1f508
+  _process_symbol_for_psymtab: 0x1f15c
+  _compare_psymbols: 0x1f774
+  _read_ofile_symtab: 0x203d2
+  _scan_file_globals: 0x201d2
+  _hashname: 0x2058a
+  _process_one_symbol: 0x2073c
+  _hash_symsegs: 0x205e6
+  _define_symbol: 0x21350
+  _condense_addl_misc_bunches: 0x20a34
+  _read_addl_syms: 0x20b62
+  _read_type: 0x21c86
+  _read_type_number: 0x21b68
+  _read_number: 0x23f58
+  _read_args: 0x2401a
+  _read_range_type: 0x23a72
+  _read_enum_type: 0x236b6
+  _read_struct_type: 0x22230
+  _read_array_type: 0x23340
+  _opname.0: 0x38050
+
+Local symbols of infcmd.o:
+
+  _set_args_command: 0x24260
+  _inferior_args: 0x4a240
+  _run_command: 0x24386
+  _step_command: 0x2455a
+  _step_1: 0x2462a
+  _next_command: 0x2456e
+  _stepi_command: 0x24584
+  _nexti_command: 0x2459a
+  _jump_command: 0x24870
+  _signal_command: 0x24a00
+  _stack_dummy_testing: 0x38070
+  _finish_command: 0x24dfe
+  _program_info: 0x250ca
+  _environment_info: 0x251a2
+  _set_environment_command: 0x25290
+  _unset_environment_command: 0x25404
+  _registers_info: 0x2564a
+  _float_info: 0x2598e
+
+Local symbols of infrun.o:
+
+  _break_insn: 0x380e8
+  _trap_expected: 0x4a254
+  _step_resume_break_address: 0x4a260
+  _step_start_function: 0x4a264
+  _trap_expected_after_continue: 0x4a250
+  _breakpoints_inserted: 0x4a268
+  _signal_program: 0x4a26c
+  _wait_for_inferior: 0x26ad4
+  _normal_stop: 0x2769a
+  _running_in_shell: 0x4a248
+  _stop_print_frame: 0x4a244
+  _breakpoints_failed: 0x4a24c
+  _signal_print: 0x4a28c
+  _signal_stop: 0x4a2ac
+  _remove_step_breakpoint: 0x279c6
+  _step_resume_break_duplicate: 0x4a258
+  _insert_step_breakpoint: 0x2797e
+  _step_resume_break_shadow: 0x4a25c
+  _handle_command: 0x27b54
+  _signals_info: 0x27ef2
+
+Local symbols of remote.o:
+
+  _fromhex: 0x286ee
+  _tohex: 0x28736
+  _dcache_flush: 0x28eb2
+  _putpkt: 0x28c08
+  _getpkt: 0x28dac
+  _remote_send: 0x28bc2
+  _readchar: 0x28d2a
+
+Local symbols of command.o:
+
+  _shell_escape: 0x29ad8
+
+Local symbols of utils.o:
+
+  _cleanup_chain: 0x4a2cc
+
+Local symbols of expread.o:
+
+  _start_arglist: 0x2a71c
+  _arglist_len: 0x4a2e0
+  _end_arglist: 0x2a750
+  _free_funcalls: 0x2a78a
+  _write_exp_elt: 0x2a7b6
+  _expout_ptr: 0x4a2e8
+  _expout_size: 0x4a2ec
+  _expout: 0x4a2f0
+  _write_exp_elt_opcode: 0x2a816
+  _write_exp_elt_sym: 0x2a82e
+  _write_exp_elt_longcst: 0x2a848
+  _write_exp_elt_dblcst: 0x2a862
+  _write_exp_elt_type: 0x2a882
+  _write_exp_elt_intern: 0x2a89c
+  _write_exp_string: 0x2a8b6
+  _parse_number: 0x2a994
+  _lexptr: 0x4a2dc
+  _tokentab3: 0x3816c
+  _tokentab2: 0x38184
+  _yylex: 0x2abb8
+  _paren_depth: 0x4a2d4
+  _comma_terminates: 0x4a2d0
+  _expression_context_block: 0x4a2e4
+  _copy_name: 0x2b31c
+  _yyerror: 0x2b30a
+  _namecopy: 0x4a2d8
+  _prefixify_expression: 0x2b34e
+  _prefixify_subexp: 0x2b498
+  _length_of_subexp: 0x2b3ae
+  _yaccpar_sccsid: 0x38d0e
+
+Local symbols of expprint.o:
+
+  _op_print_tab: 0x38d38
+  _print_subexp: 0x2c7dc
+
+Local symbols of pinsn.o:
+
+  _print_insn_arg: 0x2ea1e
+  _names.0: 0x3ce60
+  _fetch_arg: 0x2f626
+  _print_indexed: 0x2f8ca
+  _scales.1: 0x3cea0
+  _print_base: 0x2fb50
+
+Local symbols of environ.o:
+
+
+Local symbols of version.o:
+
+
+Local symbols of core.o:
+
+  _files_info: 0x301f6
+
+Local symbols of inflow.o:
+
+  _sg_ours: 0x4a30c
+  _sg_inferior: 0x4a320
+  _tflags_ours: 0x4a304
+  _tflags_inferior: 0x4a308
+  _terminal_is_ours: 0x4a2f4
+  _sigint_ours: 0x4a300
+  _sigquit_ours: 0x4a2fc
+  _terminal_ours_1: 0x30b72
+  _term_status_command: 0x30d0c
+  _new_tty: 0x30dc6
+  _inferior_thisrun_terminal: 0x4a2f8
+  _kill_command: 0x30f8e
+  _try_writing_regs_command: 0x31096
+
+Local symbols of dep.o:
+
+
+Local symbols of obstack.o:
+
+
+Local symbols of regex.o:
+
+  _done.0: 0x3ceb4
+  _init_syntax_once: 0x3201c
+  _re_syntax_table: 0x4a34c
+  _obscure_syntax: 0x3ceb8
+  _store_jump: 0x32cfa
+  _insert_jump: 0x32d3c
+  _bcmp_translate: 0x33d74
+  _re_comp_buf: 0x4a334
+
+Local symbols of malloc.o:
+
+  _data_space_start: 0x4a574
+  _lim_data: 0x4a458
+  _warnlevel: 0x4a454
+  _warnfunction: 0x4a450
+  _morecore: 0x33f68
+  _gotpool: 0x4a44c
+  _getpool: 0x340fe
+  _nextf: 0x4a47c
+  _busy: 0x4a45c
+  _nmalloc: 0x4a4fc
+  _nmal: 0x4a4f8
+  _nfre: 0x4a4f4
+
+Local symbols of alloca.o:
+
+  _SCCSid: 0x3cec0
+  _addr.0: 0x3ced8
+  _find_stack_direction: 0x346a0
+  _stack_dir: 0x4a578
+  _last_alloca_header: 0x3cedc
+
+Local symbols of /usr/src/glib/libc.a(assert.o):
+
+  _assert.c: 0x3486c
+
+Local symbols of /usr/src/glib/libc.a(abort.o):
+
+  _abort.c: 0x348a6
+
+Local symbols of /usr/src/glib/libc.a(chdir.o):
+
+  _noerror: 0x348bc
+
+Local symbols of /usr/src/glib/libc.a(atof.o):
+
+  _atof.c: 0x34ba2
+
+Local symbols of /usr/src/glib/libc.a(dup2.o):
+
+  _dup2.c: 0x34c2e
+
+Local symbols of /usr/src/glib/libc.a(errlst.o):
+
+  _errlst.c: 0x34c38
+
+Local symbols of /usr/src/glib/libc.a(execl.o):
+
+  _execl.c: 0x34c60
+
+Local symbols of /usr/src/glib/libc.a(execle.o):
+
+  _execle.c: 0x34c92
+
+Local symbols of /usr/src/glib/libc.a(execve.o):
+
+
+Local symbols of /usr/src/glib/libc.a(exit.o):
+
+
+Local symbols of /usr/src/glib/libc.a(fdopen.o):
+
+  _fdopen.c: 0x34d4c
+
+Local symbols of /usr/src/glib/libc.a(fgetc.o):
+
+  _fgetc.c: 0x34d86
+
+Local symbols of /usr/src/glib/libc.a(fork.o):
+
+  _forkok: 0x34d9a
+  _parent: 0x34daa
+
+Local symbols of /usr/src/glib/libc.a(fprintf.o):
+
+  _fprintf.c: 0x34e14
+
+Local symbols of /usr/src/glib/libc.a(doprnt.o):
+
+  __lowdigit: 0x34e1c
+  __dowrite: 0x34e64
+  _doprnt.c: 0x35de6
+
+Local symbols of /usr/src/glib/libc.a(fputc.o):
+
+  _fputc.c: 0x35e30
+
+Local symbols of /usr/src/glib/libc.a(fseek.o):
+
+  _fseek.c: 0x35f6a
+
+Local symbols of /usr/src/glib/libc.a(fstat.o):
+
+  _noerror: 0x35f80
+
+Local symbols of /usr/src/glib/libc.a(fwrite.o):
+
+  _fwrite.c: 0x3616e
+
+Local symbols of /usr/src/glib/libc.a(ecvt.o):
+
+  _cvt: 0x361ca
+  _ecvt.c: 0x36454
+
+Local symbols of /usr/src/glib/libc.a(getcwd.o):
+
+  _getcwd.c: 0x3650e
+
+Local symbols of /usr/src/glib/libc.a(atoi.o):
+
+  _atoi.c: 0x365d0
+
+Local symbols of /usr/src/glib/libc.a(ctype.o):
+
+  _ctype.c: 0x3669a
+
+Local symbols of /usr/src/glib/libc.a(fgets.o):
+
+  _fgets.c: 0x3679e
+
+Local symbols of /usr/src/glib/libc.a(filbuf.o):
+
+  _filbuf.c: 0x368c0
+
+Local symbols of /usr/src/glib/libc.a(fopen.o):
+
+  __endopen: 0x36916
+  _fopen.c: 0x36a28
+
+Local symbols of /usr/src/glib/libc.a(findiop.o):
+
+  _findiop.c: 0x36a64
+
+Local symbols of /usr/src/glib/libc.a(flsbuf.o):
+
+  _flsbuf.c: 0x36fd6
+
+Local symbols of /usr/src/glib/libc.a(data.o):
+
+  _data.c: 0x36fe0
+
+Local symbols of /usr/src/glib/libc.a(isatty.o):
+
+  _isatty.c: 0x37010
+
+Local symbols of /usr/src/glib/libc.a(ioctl.o):
+
+  _noerror: 0x37024
+
+Local symbols of /usr/src/glib/libc.a(ldexp.o):
+
+  _ldexp.c: 0x3712e
+
+Local symbols of /usr/src/glib/libc.a(frexp.o):
+
+  _frexp.c: 0x37200
+
+Local symbols of /usr/src/glib/libc.a(fcntl.o):
+
+  _noerror: 0x37216
+
+Local symbols of /usr/src/glib/libc.a(lseek.o):
+
+  _noerror: 0x37224
+
+Local symbols of /usr/src/glib/libc.a(memccpy.o):
+
+
+Local symbols of /usr/src/glib/libc.a(memchr.o):
+
+
+Local symbols of /usr/src/glib/libc.a(memcmp.o):
+
+
+Local symbols of /usr/src/glib/libc.a(memcpy.o):
+
+
+Local symbols of /usr/src/glib/libc.a(memset.o):
+
+
+Local symbols of /usr/src/glib/libc.a(access.o):
+
+  _noerror: 0x3730c
+
+Local symbols of /usr/src/glib/libc.a(kill.o):
+
+  _noerror: 0x3731a
+
+Local symbols of /usr/src/glib/libc.a(close.o):
+
+  _noerror: 0x3732a
+
+Local symbols of /usr/src/glib/libc.a(getenv.o):
+
+  _nvmatch: 0x37372
+  _getenv.c: 0x373ae
+
+Local symbols of /usr/src/glib/libc.a(getpid.o):
+
+  _gogetpid: 0x373c0
+
+Local symbols of /usr/src/glib/libc.a(cerror.o):
+
+
+Local symbols of /usr/src/glib/libc.a(popen.o):
+
+  _popen.c: 0x375ac
+
+Local symbols of /usr/src/glib/libc.a(pipe.o):
+
+  _noerror: 0x375c0
+
+Local symbols of /usr/src/glib/libc.a(ptrace.o):
+
+  _noerror: 0x375d8
+
+Local symbols of /usr/src/glib/libc.a(qsort.o):
+
+  _qs1: 0x3765c
+  _qstexc: 0x37826
+  _qsexc: 0x377b4
+  _qsort.c: 0x378ae
+
+Local symbols of /usr/src/glib/libc.a(sbrk.o):
+
+  _do_sbrk1: 0x378c6
+  _nd: 0x3ded8
+  _noerr1: 0x378dc
+  _noerr2: 0x378fa
+
+Local symbols of /usr/src/glib/libc.a(setjmp.o):
+
+  _L0: 0x3791c
+
+Local symbols of /usr/src/glib/libc.a(printf.o):
+
+  _printf.c: 0x37992
+
+Local symbols of /usr/src/glib/libc.a(sprintf.o):
+
+  _sprintf.c: 0x379ec
+
+Local symbols of /usr/src/glib/libc.a(strchr.o):
+
+
+Local symbols of /usr/src/glib/libc.a(strcmp.o):
+
+
+Local symbols of /usr/src/glib/libc.a(strncpy.o):
+
+
+Local symbols of /usr/src/glib/libc.a(strlen.o):
+
+
+Local symbols of /usr/src/glib/libc.a(strncmp.o):
+
+
+Local symbols of /usr/src/glib/libc.a(strrchr.o):
+
+
+Local symbols of /usr/src/glib/libc.a(open.o):
+
+  _noerror: 0x37ade
+
+Local symbols of /usr/src/glib/libc.a(read.o):
+
+  _noerror: 0x37aec
+
+Local symbols of /usr/src/glib/libc.a(stat.o):
+
+  _noerror: 0x37afa
+
+Local symbols of /usr/src/glib/libc.a(strcat.o):
+
+
+Local symbols of /usr/src/glib/libc.a(strcpy.o):
+
+
+Local symbols of /usr/src/glib/libc.a(ulimit.o):
+
+  _noerror: 0x37b38
+
+Local symbols of /usr/src/glib/libc.a(ungetc.o):
+
+  _ungetc.c: 0x37b98
+
+Local symbols of /usr/src/glib/libc.a(wait.o):
+
+  _noerror: 0x37bae
+  _nostatus: 0x37bba
+
+Local symbols of /usr/src/glib/libc.a(write.o):
+
+  _noerror: 0x37bc8
+
+Local symbols of /usr/src/glib/libc.a(sigcall.o):
+
+  _sigcall.c: 0x37d38
+
+Local symbols of /usr/src/glib/libc.a(sigcode.o):
+
+
+Local symbols of /usr/src/glib/libc.a(signal.o):
+
+  __doit: 0x37d74
+  _noerror: 0x37d80
+
+Local symbols of /usr/src/glib/libc.a(cuexit.o):
+

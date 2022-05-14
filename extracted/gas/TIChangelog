@@ -1,0 +1,20 @@
+Record of changes made to the GNU Assembler:
+
+10/17/90  clm   - fixed the 'L' problem where symbols beginning 
+ with capital 'L' were being converted to '_L' to prevent     
+ confusion with local labels.  That created a problem when    
+ these objects were linked with objects not compiled with GNU 
+ and so didn't have the '_' feature.  Fix is to remove the 
+ '_' at the end of assembly before writing out the symbols.   
+ At that point all the symbol's information is correct, and    
+ changing the name has no affect.  We must take the shortened
+ symbols into account as we calculate string_byte_count for
+ the string table.  Modified functions symbol_new, symbol_find
+ and write_object_file.  Added function L_symbol_p (used to 
+ parse symbols to see if they begin with 'L' after an unknown
+ number of '_' characters).
+
+
+12/17/90  clm   - added handling for the #ident C directive.  This creates
+ a comment section in the object file using the .ident assembler directive.
+ Changes were made to files: read.c, write.c and coff.h.  	
