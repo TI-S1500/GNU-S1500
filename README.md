@@ -13,7 +13,8 @@
 
 ## Notes
 
-* Changes from upstream appear mostly self-contained (`#ifdef ti1500`).
+* Changes from upstream appear mostly self-contained.
+  * Search "[`#ifdef ti1500`](https://github.com/TI-S1500/GNU-S1500/search?q=%22%23ifdef+ti1500%22&type=)" to see  these modifications.
 * Several source files seem to be slightly newer than the distributed binaries.
 * The toolchain, as distributed, is functional and able to build working programs.
 
