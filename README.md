@@ -20,10 +20,10 @@
 
 ## Development
 
+* Future developments will (*most likely*) happen in the [TI-S1500/GCC-1.x](https://github.com/TI-S1500/GCC-1.x) repository.
 * [Pull requests](https://github.com/TI-S1500/GNU-S1500/pulls) for bug-fixes and
-  improvements will be accepted.
-* [Issues](https://github.com/TI-S1500/GNU-S1500/issues) should be used for
-  defect tracking.
+  improvements to code in this repository will be accepted.
+* [Issues](https://github.com/TI-S1500/GNU-S1500/issues) should be used for tracking bugs and defects in this tree.
 
 ## Licensing
 
