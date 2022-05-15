@@ -20,7 +20,7 @@
 
 ## Development
 
-* **Although future GCC development will most likely occur in the** [***TI-S1500/GCC-1.x***](https://github.com/TI-S1500/GCC-1.x) **repository**,
+* **Although future GCC development will most likely occur in the** [***GCC-1.x***](https://github.com/TI-S1500/GCC-1.x) **repository**,
   * [Pull requests](https://github.com/TI-S1500/GNU-S1500/pulls) for bug-fixes and
     improvements to the code in this repository will be accepted, and,
   * [Issues](https://github.com/TI-S1500/GNU-S1500/issues) should be opened to track bugs and defects in this code.
